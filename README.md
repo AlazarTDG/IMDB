@@ -2,4 +2,4 @@
 
 ![Screenshot 2023-04-04 155641](https://user-images.githubusercontent.com/106746978/229798965-1b077a71-b887-498a-bf2d-611eb8ea44fb.png)
 
-||Link to my website: https://alazartdg.github.io/IMDB/
+|Link to the website: https://alazartdg.github.io/IMDB/
